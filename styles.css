@@ -1,1 +1,15 @@
-/* your code */
+.tab{
+  text-align:center;
+  border-color: blue;
+  border-radius: 10px;
+
+}
+.he{
+ background-color: blue;
+ 
+ 
+}
+.bodyy{
+ background-color: darkgrey;
+ /* border: 10px,solid,black; */
+}
